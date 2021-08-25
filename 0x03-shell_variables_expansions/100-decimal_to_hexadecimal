@@ -1,5 +1,5 @@
 #!/bin/bash
-printf -v hex '%x' $DECIMAL
-echo $hex
+printf "%x\n" $DECIMAL
+
 
 
