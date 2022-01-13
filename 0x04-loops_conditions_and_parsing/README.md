@@ -1,0 +1,1 @@
+# In this directory we learn about loops condition and parsing of bash 
